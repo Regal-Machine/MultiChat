@@ -1,0 +1,7 @@
+name: MultiChat
+version: 0.5.0
+author: REGAL_MACHINE
+main: me.RegalMachine.MultiChat.MultiChat
+commands:
+  color:
+    description: Shows you the colors Bukkit has to offer.

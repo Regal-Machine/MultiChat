@@ -1,0 +1,18 @@
+#     MultiChat
+#New chats are made under chats as such:
+# - 'chatName prefix command'
+#
+# the name of the chat will determine its permission node
+# the prefix will appear in the in game chat messages.
+# the command will be the command used for in game interaction with the chat
+#
+# Permission nodes
+#  multichat.<chatName>.color
+#  multichat.<chatName>.format
+#  multichat.<chatName>.use
+#  multichat.<chatName>.toggle
+
+
+
+chats:
+  - 'staff &8&l[&c&lStaff&8&l] sc'
